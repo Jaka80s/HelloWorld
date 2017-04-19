@@ -1,4 +1,4 @@
-// three_func.c -- 一個文件中包含3個函數
+// three_func.c -- 一個文件中包含2個函數
 
 #include <stdio.h>
 void br(void);  // 函數原型
